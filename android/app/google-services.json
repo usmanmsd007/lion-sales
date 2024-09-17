@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "126881212301",
+    "project_id": "lionsales-5b544",
+    "storage_bucket": "lionsales-5b544.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:126881212301:android:503106db875febf044ffc4",
+        "android_client_info": {
+          "package_name": "com.example.lion_sales"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDg105SddD0ixsNot90y-6OsSQyv4RzlmQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
